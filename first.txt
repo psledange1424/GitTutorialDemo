@@ -1,4 +1,0 @@
-This is version 1 of my project.
-This is version 2 of my project.
-Change by Pratap.
-Your file has changed.
